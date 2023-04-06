@@ -1,0 +1,23 @@
+{
+  "name": "culravmecode",
+  "version": "1.0.0",
+  "description": "Metro App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandeyg00121/CulravMeCode.git"
+  },
+  "author": "Pranay,Ankush,Jatin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandeyg00121/CulravMeCode/issues"
+  },
+  "homepage": "https://github.com/pandeyg00121/CulravMeCode#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
